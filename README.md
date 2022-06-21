@@ -10,7 +10,9 @@ I have been learning to code since I was young, something about coding always ju
 *   ✉️  You can contact me at [andrew@andrewvano.com](mailto:andrew@andrewvano.com)
 *   🚀  I'm currently working on [CS50](http://andrewvano.com/cs50)
 *   🧠  I'm learning a little bit of each language to grow my overall understanding.
-*   🤝  I'm open to collaborating on any projects that can help me grow my skills.### Skills<p align="left">
+*   🤝  I'm open to collaborating on any projects that can help me grow my skills.
+
+### Skills<p align="left">
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
                                 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
