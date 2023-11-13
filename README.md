@@ -8,7 +8,6 @@ I have been learning to code since I was young, something about coding always ju
 
 * 🌍  I'm based in Los Angeles 
 * ✉️  You can contact me at [andrew@andrewvano.com](mailto:andrew@andrewvano.com) 
-* 🚀  I'm currently working on [CS50](http://andrewvano.com/cs50) 
 * 🧠  I'm learning a little bit of each language to grow my overall understanding. 
 * 🤝  I'm open to collaborating on any projects that can help me grow my skills.
 
@@ -45,10 +44,6 @@ I have been learning to code since I was young, something about coding always ju
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/arrowarcher1"><img src="https://github-readme-stats.vercel.app/api?username=arrowarcher1&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="arrowarcher1's GitHub stats" /></a>
-<a href="http://www.github.com/arrowarcher1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arrowarcher1&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ### Support Me
 
