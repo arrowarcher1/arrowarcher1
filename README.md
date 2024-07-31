@@ -6,7 +6,7 @@ Computer Science & Business Honors - Lehigh University
 
 I have been learning to code since I was young, something about coding always jumped out to me as being really cool because you can get results from what you do in real-time. I kept on this passion and hope to have a career in computer science one day. 
 
-* ✉️  You can contact me at [andrew@andrewvano.com](mailto:andrew@andrewvano.com) 
+* ✉️  You can contact me at [andrew@andrewvano.com](mailto:andrew@andrewvo.dev) 
 
 ### Skills
 
