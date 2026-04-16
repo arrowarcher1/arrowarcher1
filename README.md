@@ -51,17 +51,6 @@ Currently building authorization chaincode on **Oracle Blockchain Platform** in 
 ![LLVM](https://img.shields.io/badge/LLVM-262D3A?style=flat&logo=llvm&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arrowarcher1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrowarcher1&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arrowarcher1&theme=tokyonight&hide_border=true" />
-</p>
-
 ## Featured Projects
 
 <p align="center">
